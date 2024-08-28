@@ -3,8 +3,8 @@ package settings
 import "log/slog"
 
 type Settings struct {
-	DB
 	Application
+	DB
 }
 
 // TOOD: implement loading the environment variables

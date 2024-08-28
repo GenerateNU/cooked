@@ -1,1 +1,1 @@
-DROP TABLE recipe;
+DROP TABLE recipes;
