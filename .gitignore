@@ -16,3 +16,4 @@ frontend/.DS_Store
 frontend/*.pem
 frontend/*.tsbuildinfo
 frontend/next-env.d.ts
+frontend/.next
