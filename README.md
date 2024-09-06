@@ -24,9 +24,9 @@ Final Note:
 - You will find a series of comments prefixed by **TODO** scattered across the repository. These indicate small tasks + where code should be written to meet the requirements. 
 
 ## Tech Stack
-- The backend is written in **Golang** and uses **Fiber** as a web framework
+- The backend is written in **Golang** and uses [**Fiber**](https://docs.gofiber.io/) as a web framework
 - The frontend used **Next.js** (React framework) and **Tanstack Query** (formerly React Query) for communicating with the backend
-- The database is a **Postgres** instance hosted on Supabase and uses **Sqlx** for transactions
+- The database is a **Postgres** instance hosted on Supabase and uses [**sqlx**](https://github.com/jmoiron/sqlx) for transactions
 
 ## Usage
 
